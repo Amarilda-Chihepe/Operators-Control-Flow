@@ -5,24 +5,29 @@
 	Logical Operators: &&, !, ||;
 	Bitwise Operators: &, |, ^, ~, <<, >>, >>>;
 
-2. For each JavaScript Operator, write 2 examples
+2. For each JavaScript Operator, write 2 examples:
+
 	Arithmetic Operators:
+	
 		let a, b, sum, mult;
-		sum = a + b;
-		mult = a * b;
+			sum = a + b;
+			mult = a * b;
 
 	Assignment Operators:
+
 		let num = 5;
 
 	Comparison Operators:
-		let a, b;
-		if(a>b){
-			console.log("a is greater than b");
-		}
 
-		if(a==b>){
-			console.log("b is equal to a");
-		}
+		let a, b;
+
+			if(a>b){
+				console.log("a is greater than b");
+			}
+
+			if(a==b>){
+				console.log("b is equal to a");
+			}
 
 	Logical Operators:
 
